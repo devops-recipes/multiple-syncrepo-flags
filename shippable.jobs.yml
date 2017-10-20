@@ -1,0 +1,8 @@
+jobs:
+
+  # simple runSh job that echos Hello World
+  - name: hello_world_job
+    type: runSh
+    steps:
+      - TASK:
+        - script: echo "Hello World"
