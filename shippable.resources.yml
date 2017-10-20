@@ -1,7 +1,0 @@
-resources:
-
-  name: multiple-syncrepo-flags_master
-  type: syncRepo
-  flags:
-    - team1
-    - team2
